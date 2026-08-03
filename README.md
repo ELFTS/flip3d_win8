@@ -1,10 +1,10 @@
-# Flip3DComp
+# FlipD3D11
 
-DirectComposition Flip3D switcher. A faster, more complete successor to the [flip3d](https://github.com/ALTaleX531/flip3d) D3D11 prototype.
+D3D11 Flip3D switcher. A faster, more complete successor to the [flip3d](https://github.com/ALTaleX531/flip3d) D3D11 prototype.
 
 ## Requirements
 
-- Windows with DWM and DirectComposition
+- Windows with DWM and D3D
 - CMake 3.21+
 - Visual Studio / MSVC with the Windows SDK
 
