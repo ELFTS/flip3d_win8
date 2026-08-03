@@ -1,4 +1,4 @@
-# FlipD3D11
+# Flip3DCompD3D11
 
 D3D11 Flip3D switcher. A faster, more complete successor to the [flip3d](https://github.com/ALTaleX531/flip3d) D3D11 prototype.
 
